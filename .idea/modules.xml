@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/XYZReader.iml" filepath="$PROJECT_DIR$/XYZReader.iml" />
       <module fileurl="file://$PROJECT_DIR$/XYZReader/XYZReader.iml" filepath="$PROJECT_DIR$/XYZReader/XYZReader.iml" />
       <module fileurl="file://$PROJECT_DIR$/XYZReader/XYZReader-XYZReader.iml" filepath="$PROJECT_DIR$/XYZReader/XYZReader-XYZReader.iml" />
-      <module fileurl="file://$PROJECT_DIR$/XYZreader.iml" filepath="$PROJECT_DIR$/XYZreader.iml" />
     </modules>
   </component>
 </project>
